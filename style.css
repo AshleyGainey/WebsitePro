@@ -1,0 +1,53 @@
+nav {
+    width: 100px;
+    height: 100px;
+
+}
+
+body {
+    background-color: #bfbfbf;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+#Menu {
+    
+}
+
+#Menu li{
+    list-style: none;
+   display: inline-block;
+   float: left;
+   font-size: 8px;
+    line-height: 100px;
+}
+
+#Menu li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Nunito', sans-serif;
+    color: #000000;
+    padding: 0 20px;
+
+}
+
+#form {
+    resize:none
+}
+
+#button {
+    background-color: transparent;
+    border: none;
+    color: #002060;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
